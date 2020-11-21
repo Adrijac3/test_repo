@@ -34,6 +34,12 @@
 			"name": "poster6",
 			"link": "https://cdn.glitch.com/9f00edee-2827-4669-902c-8424ce31c9d2%2Fp6.jpeg?v=1605969844891",
 			"type": "image"
+		},
+		 {
+			"id": 7,
+			"name": "poster7",
+			"link": "https://cdn.glitch.com/9f00edee-2827-4669-902c-8424ce31c9d2%2FSERC_poster-page-001.jpg?v=1605977343376",
+			"type": "image"
 		}
 	],
 	"COGSCI": [{
