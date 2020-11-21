@@ -1,4 +1,4 @@
-let rooms ={
+{
     "room1": [
     {"id": 1,"name":"poster1", "link":"https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg", "type":"image"},
     {"id": 2,"name":"poster2", "link":"https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg", "type":"image"},
