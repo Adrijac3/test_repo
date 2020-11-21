@@ -86,7 +86,7 @@
 		}
 
 	],
-	"room3": [{
+	"CVIT": [{
 			"id": 1,
 			"name": "poster1",
 			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
@@ -159,195 +159,7 @@
 			"type": "image"
 		}
 	],
-	"room4": [{
-			"id": 1,
-			"name": "poster1",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
-			"type": "image"
-		},
-		{
-			"id": 2,
-			"name": "poster2",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
-			"type": "image"
-		},
-		{
-			"id": 3,
-			"name": "poster3",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
-			"type": "image"
-		},
-		{
-			"id": 4,
-			"name": "poster4",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
-			"type": "image"
-		},
-		{
-			"id": 5,
-			"name": "poster5",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
-			"type": "image"
-		},
-		{
-			"id": 6,
-			"name": "poster6",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
-			"type": "image"
-		},
-		{
-			"id": 7,
-			"name": "poster7",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
-			"type": "image"
-		},
-		{
-			"id": 8,
-			"name": "poster7",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
-			"type": "image"
-		},
-		{
-			"id": 9,
-			"name": "poster1",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
-			"type": "image"
-		},
-		{
-			"id": 10,
-			"name": "poster2",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
-			"type": "image"
-		},
-		{
-			"id": 11,
-			"name": "poster3",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
-			"type": "image"
-		},
-		{
-			"id": 12,
-			"name": "poster4",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
-			"type": "image"
-		},
-		{
-			"id": 13,
-			"name": "poster5",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
-			"type": "image"
-		},
-		{
-			"id": 14,
-			"name": "poster6",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
-			"type": "image"
-		},
-		{
-			"id": 15,
-			"name": "poster7",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
-			"type": "image"
-		},
-		{
-			"id": 16,
-			"name": "poster7",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
-			"type": "image"
-		}
-	],
-	"room5": [{
-			"id": 1,
-			"name": "poster1",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
-			"type": "image"
-		},
-		{
-			"id": 2,
-			"name": "poster2",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
-			"type": "image"
-		},
-		{
-			"id": 3,
-			"name": "poster3",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
-			"type": "image"
-		},
-		{
-			"id": 4,
-			"name": "poster4",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
-			"type": "image"
-		},
-		{
-			"id": 5,
-			"name": "poster5",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
-			"type": "image"
-		},
-		{
-			"id": 6,
-			"name": "poster6",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
-			"type": "image"
-		},
-		{
-			"id": 7,
-			"name": "poster7",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
-			"type": "image"
-		},
-		{
-			"id": 8,
-			"name": "poster7",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
-			"type": "image"
-		},
-		{
-			"id": 9,
-			"name": "poster1",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
-			"type": "image"
-		},
-		{
-			"id": 10,
-			"name": "poster2",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
-			"type": "image"
-		},
-		{
-			"id": 11,
-			"name": "poster3",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
-			"type": "image"
-		},
-		{
-			"id": 12,
-			"name": "poster4",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
-			"type": "image"
-		},
-		{
-			"id": 13,
-			"name": "poster5",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
-			"type": "image"
-		},
-		{
-			"id": 14,
-			"name": "poster6",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
-			"type": "image"
-		},
-		{
-			"id": 15,
-			"name": "poster7",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
-			"type": "image"
-		}
-	],
-	"room6": [{
+	"RRC": [{
 			"id": 1,
 			"name": "poster1",
 			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
@@ -444,7 +256,195 @@
 			"type": "image"
 		}
 	],
-	"room7": [{
+	"SPCRC": [{
+			"id": 1,
+			"name": "poster1",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		},
+		{
+			"id": 2,
+			"name": "poster2",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		},
+		{
+			"id": 3,
+			"name": "poster3",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		},
+		{
+			"id": 4,
+			"name": "poster4",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		},
+		{
+			"id": 5,
+			"name": "poster5",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		},
+		{
+			"id": 6,
+			"name": "poster6",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		},
+		{
+			"id": 7,
+			"name": "poster7",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		},
+		{
+			"id": 8,
+			"name": "poster7",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		},
+		{
+			"id": 9,
+			"name": "poster1",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		},
+		{
+			"id": 10,
+			"name": "poster2",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		},
+		{
+			"id": 11,
+			"name": "poster3",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		},
+		{
+			"id": 12,
+			"name": "poster4",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		},
+		{
+			"id": 13,
+			"name": "poster5",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		},
+		{
+			"id": 14,
+			"name": "poster6",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		},
+		{
+			"id": 15,
+			"name": "poster7",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		}
+	],
+	"CSG": [{
+			"id": 1,
+			"name": "poster1",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		},
+		{
+			"id": 2,
+			"name": "poster2",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		},
+		{
+			"id": 3,
+			"name": "poster3",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		},
+		{
+			"id": 4,
+			"name": "poster4",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		},
+		{
+			"id": 5,
+			"name": "poster5",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		},
+		{
+			"id": 6,
+			"name": "poster6",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		},
+		{
+			"id": 7,
+			"name": "poster7",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		},
+		{
+			"id": 8,
+			"name": "poster7",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		},
+		{
+			"id": 9,
+			"name": "poster1",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		},
+		{
+			"id": 10,
+			"name": "poster2",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		},
+		{
+			"id": 11,
+			"name": "poster3",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		},
+		{
+			"id": 12,
+			"name": "poster4",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		},
+		{
+			"id": 13,
+			"name": "poster5",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		},
+		{
+			"id": 14,
+			"name": "poster6",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		},
+		{
+			"id": 15,
+			"name": "poster7",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		},
+		{
+			"id": 16,
+			"name": "poster7",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		}
+	],
+	"LTRC": [{
 			"id": 1,
 			"name": "poster1",
 			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
@@ -572,7 +572,7 @@
 		}
 
 	],
-  "room8": [{
+  "DSAC": [{
 			"id": 1,
 			"name": "poster1",
 			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
