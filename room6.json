@@ -1,119 +1,84 @@
 {
-	"room1": [{
+	"SERC": [{
 			"id": 1,
 			"name": "poster1",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"link": "https://cdn.glitch.com/9f00edee-2827-4669-902c-8424ce31c9d2%2Fp1.jpeg?v=1605969549119",
 			"type": "image"
 		},
 		{
 			"id": 2,
 			"name": "poster2",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"link": "https://cdn.glitch.com/9f00edee-2827-4669-902c-8424ce31c9d2%2Fp2.jpeg?v=1605969829517",
 			"type": "image"
 		},
 		{
 			"id": 3,
 			"name": "poster3",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"link": "https://cdn.glitch.com/9f00edee-2827-4669-902c-8424ce31c9d2%2Fp3.jpeg?v=1605969831788",
 			"type": "image"
 		},
 		{
 			"id": 4,
 			"name": "poster4",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"link": "https://cdn.glitch.com/9f00edee-2827-4669-902c-8424ce31c9d2%2Fp4.jpeg?v=1605969836266",
 			"type": "image"
 		},
 		{
 			"id": 5,
 			"name": "poster5",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"link": "https://cdn.glitch.com/9f00edee-2827-4669-902c-8424ce31c9d2%2Fp5.jpeg?v=1605969840268",
 			"type": "image"
 		},
 		{
 			"id": 6,
 			"name": "poster6",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
-			"type": "image"
-		},
-		{
-			"id": 7,
-			"name": "poster7",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
-			"type": "image"
-		},
-		{
-			"id": 8,
-			"name": "poster7",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"link": "https://cdn.glitch.com/9f00edee-2827-4669-902c-8424ce31c9d2%2Fp6.jpeg?v=1605969844891",
 			"type": "image"
 		}
 	],
-	"room2": [{
+	"COGSCI": [{
 			"id": 1,
 			"name": "poster1",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"link": "https://cdn.glitch.com/9f00edee-2827-4669-902c-8424ce31c9d2%2FRaghav_Sharique_VR-spatial_cognition-1.jpg?v=1605974768290",
 			"type": "image"
 		},
 		{
 			"id": 2,
 			"name": "poster2",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"link": "hhttps://cdn.glitch.com/9f00edee-2827-4669-902c-8424ce31c9d2%2FEffect%20of%20Raven%3Fs%20Visuo-Spatial%20and%20Verbal-Analytical%20Strategies%20on%20Creative%20Reasoning-Kishan%20Sangani-1.jpg?v=1605974769954",
 			"type": "image"
 		},
 		{
 			"id": 3,
 			"name": "poster3",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"link": "https://cdn.glitch.com/9f00edee-2827-4669-902c-8424ce31c9d2%2FNidhi_Sinha_Cognitive%20Science%20Center_Emotion%20and%20Attention%20in%20Depression-1.jpg?v=1605974777773",
 			"type": "image"
 		},
 		{
 			"id": 4,
 			"name": "poster4",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"link": "https://cdn.glitch.com/9f00edee-2827-4669-902c-8424ce31c9d2%2FKrishn_Chunking_GST-1.jpg?v=1605974782460",
 			"type": "image"
 		},
 		{
 			"id": 5,
 			"name": "poster5",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"link": "https://cdn.glitch.com/9f00edee-2827-4669-902c-8424ce31c9d2%2FVR-Depression-R_D-1.jpg?v=1605974793797",
 			"type": "image"
 		},
 		{
 			"id": 6,
 			"name": "poster6",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"link": "https://cdn.glitch.com/9f00edee-2827-4669-902c-8424ce31c9d2%2FKrishn_Comp_Framework-1.jpg?v=1605974795120",
 			"type": "image"
 		},
 		{
 			"id": 7,
 			"name": "poster7",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
-			"type": "image"
-		},
-		{
-			"id": 8,
-			"name": "poster7",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
-			"type": "image"
-		},
-		{
-			"id": 9,
-			"name": "poster1",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
-			"type": "image"
-		},
-		{
-			"id": 10,
-			"name": "poster2",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
-			"type": "image"
-		},
-		{
-			"id": 11,
-			"name": "poster3",
-			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"link": "https://cdn.glitch.com/9f00edee-2827-4669-902c-8424ce31c9d2%2FArbitration%20between%20Deliberative%20Planning%20and%20Habitual%20Control-1.jpg?v=1605974803544",
 			"type": "image"
 		}
+
 	],
 	"room3": [{
 			"id": 1,
@@ -600,6 +565,124 @@
 			"type": "image"
 		}
 
+	],
+  "room8": [{
+			"id": 1,
+			"name": "poster1",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		},
+		{
+			"id": 2,
+			"name": "poster2",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		},
+		{
+			"id": 3,
+			"name": "poster3",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		},
+		{
+			"id": 4,
+			"name": "poster4",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		},
+		{
+			"id": 5,
+			"name": "poster5",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		},
+		{
+			"id": 6,
+			"name": "poster6",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		},
+		{
+			"id": 7,
+			"name": "poster7",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		},
+		{
+			"id": 8,
+			"name": "poster7",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		},
+		{
+			"id": 9,
+			"name": "poster1",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		},
+		{
+			"id": 10,
+			"name": "poster2",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		},
+		{
+			"id": 11,
+			"name": "poster3",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		},
+		{
+			"id": 12,
+			"name": "poster4",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		},
+		{
+			"id": 13,
+			"name": "poster5",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		},
+		{
+			"id": 14,
+			"name": "poster6",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		},
+		{
+			"id": 15,
+			"name": "poster7",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		},
+		{
+			"id": 16,
+			"name": "poster7",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		},
+		{
+			"id": 17,
+			"name": "poster4",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		},
+		{
+			"id": 18,
+			"name": "poster5",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		},
+		{
+			"id": 19,
+			"name": "poster6",
+			"link": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg",
+			"type": "image"
+		}
+		
+
 	]
+
 
 }
